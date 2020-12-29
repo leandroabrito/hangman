@@ -1,3 +1,4 @@
+console.log("hey");
 const wordElement = document.getElementById('word');
 const wrongLettersElement = document.getElementById('wrong-letters');
 const playAgainBtn = document.getElementById('play-button');
